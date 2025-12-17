@@ -1,0 +1,63 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "experience": "Experience",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "hero": {
+        "greeting": "Hi, I'm",
+        "name": "Rakhmatullo Azizov",
+        "title": "Full-Stack Developer",
+        "description": "Developer with experience in creating modern web applications using Python, Django, and React. I specialize in building scalable solutions and performance optimization.",
+        "contactBtn": "Contact Me",
+        "projectsBtn": "View Projects"
+    },
+    "about": {
+        "title": "About Me",
+        "paragraph1": "I'm a Full-Stack developer with experience in creating modern web applications. I specialize in backend development using Python and Django, as well as frontend with React and TypeScript.",
+        "paragraph2": "My experience includes developing scalable systems, database optimization, integration with external APIs, and creating intuitive user interfaces.",
+        "education": "Education",
+        "educationValue": "Higher Education",
+        "experienceLabel": "Experience",
+        "experienceValue": "3+ years of development",
+        "projectsLabel": "Projects",
+        "projectsValue": "15+ completed",
+        "location": "Location",
+        "locationValue": "Tajikistan"
+    },
+    "skills": {
+        "title": "Skills",
+        "subtitle": "Technologies and tools I work with",
+        "backend": "Backend",
+        "frontend": "Frontend",
+        "databases": "Databases",
+        "devops": "DevOps & Tools"
+    },
+    "experience": {
+        "title": "Work Experience",
+        "subtitle": "My professional career"
+    },
+    "projects": {
+        "title": "Projects",
+        "subtitle": "Some of my recent work",
+        "viewCode": "Code",
+        "viewDemo": "Demo"
+    },
+    "contact": {
+        "title": "Contact",
+        "subtitle": "Get in touch to discuss projects",
+        "getInTouch": "Get in Touch",
+        "email": "Email",
+        "phone": "Phone",
+        "location": "Location",
+        "locationValue": "Dushanbe, Tajikistan",
+        "socialMedia": "Social Media",
+        "socialDescription": "Follow me on social media and stay updated with my projects and updates.",
+        "writeMe": "Write to Me",
+        "copyright": "Rakhmatullo Azizov. All rights reserved.",
+        "madeWith": "Made with ❤️ using React, TypeScript and Tailwind CSS"
+    }
+}

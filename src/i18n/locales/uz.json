@@ -1,0 +1,63 @@
+{
+    "nav": {
+        "home": "Bosh sahifa",
+        "about": "Men haqimda",
+        "skills": "Ko'nikmalar",
+        "experience": "Tajriba",
+        "projects": "Loyihalar",
+        "contact": "Aloqa"
+    },
+    "hero": {
+        "greeting": "Salom, men",
+        "name": "Raxmatullo Azizov",
+        "title": "Full-Stack Dasturchi",
+        "description": "Python, Django va React yordamida zamonaviy web-ilovalarni yaratish tajribasiga ega dasturchi. Kengaytirilgan yechimlarni yaratish va samaradorlikni optimallashtirish bo'yicha ixtisoslashaman.",
+        "contactBtn": "Men bilan bog'laning",
+        "projectsBtn": "Loyihalarni ko'rish"
+    },
+    "about": {
+        "title": "Men haqimda",
+        "paragraph1": "Men zamonaviy web-ilovalarni yaratish tajribasiga ega Full-Stack dasturchiman. Python va Django yordamida backend ishlab chiqish, shuningdek React va TypeScript yordamida frontend ishlab chiqish bo'yicha ixtisoslashaman.",
+        "paragraph2": "Mening tajribam kengaytirilgan tizimlarni ishlab chiqish, ma'lumotlar bazasini optimallashtirish, tashqi API bilan integratsiya va intuitiv foydalanuvchi interfeyslari yaratishni o'z ichiga oladi.",
+        "education": "Ta'lim",
+        "educationValue": "Oliy ma'lumot",
+        "experienceLabel": "Tajriba",
+        "experienceValue": "3+ yillik ishlab chiqish",
+        "projectsLabel": "Loyihalar",
+        "projectsValue": "15+ amalga oshirilgan",
+        "location": "Joylashuv",
+        "locationValue": "Tojikiston"
+    },
+    "skills": {
+        "title": "Ko'nikmalar",
+        "subtitle": "Men ishlaydigan texnologiyalar va vositalar",
+        "backend": "Backend",
+        "frontend": "Frontend",
+        "databases": "Ma'lumotlar bazalari",
+        "devops": "DevOps & Vositalar"
+    },
+    "experience": {
+        "title": "Ish tajribasi",
+        "subtitle": "Mening professional karyeram"
+    },
+    "projects": {
+        "title": "Loyihalar",
+        "subtitle": "Mening so'nggi ishlarimdan ba'zilari",
+        "viewCode": "Kod",
+        "viewDemo": "Demo"
+    },
+    "contact": {
+        "title": "Aloqa",
+        "subtitle": "Loyihalarni muhokama qilish uchun men bilan bog'laning",
+        "getInTouch": "Men bilan bog'laning",
+        "email": "Email",
+        "phone": "Telefon",
+        "location": "Joylashuv",
+        "locationValue": "Dushanbe, Tojikiston",
+        "socialMedia": "Ijtimoiy tarmoqlar",
+        "socialDescription": "Ijtimoiy tarmoqlarda meni kuzatib boring va loyihalarim va yangilanishlarimdan xabardor bo'ling.",
+        "writeMe": "Menga yozing",
+        "copyright": "Raxmatullo Azizov. Barcha huquqlar himoyalangan.",
+        "madeWith": "❤️ bilan React, TypeScript va Tailwind CSS yordamida yaratilgan"
+    }
+}

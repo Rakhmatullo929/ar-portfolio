@@ -1,0 +1,63 @@
+{
+    "nav": {
+        "home": "Главная",
+        "about": "О себе",
+        "skills": "Навыки",
+        "experience": "Опыт",
+        "projects": "Проекты",
+        "contact": "Контакты"
+    },
+    "hero": {
+        "greeting": "Привет, я",
+        "name": "Рахматулло Азизов",
+        "title": "Full-Stack Developer",
+        "description": "Разработчик с опытом создания современных веб-приложений на Python, Django, React. Специализируюсь на построении масштабируемых решений и оптимизации производительности.",
+        "contactBtn": "Связаться со мной",
+        "projectsBtn": "Посмотреть проекты"
+    },
+    "about": {
+        "title": "О себе",
+        "paragraph1": "Я Full-Stack разработчик с опытом создания современных веб-приложений. Специализируюсь на backend-разработке с использованием Python и Django, а также на frontend с помощью React и TypeScript.",
+        "paragraph2": "Мой опыт включает разработку масштабируемых систем, оптимизацию баз данных, интеграцию с внешними API и создание интуитивных пользовательских интерфейсов.",
+        "education": "Образование",
+        "educationValue": "Высшее образование",
+        "experienceLabel": "Опыт",
+        "experienceValue": "3+ лет разработки",
+        "projectsLabel": "Проекты",
+        "projectsValue": "15+ реализованных",
+        "location": "Местоположение",
+        "locationValue": "Таджикистан"
+    },
+    "skills": {
+        "title": "Навыки",
+        "subtitle": "Технологии и инструменты, которыми я владею",
+        "backend": "Backend",
+        "frontend": "Frontend",
+        "databases": "Базы данных",
+        "devops": "DevOps & Tools"
+    },
+    "experience": {
+        "title": "Опыт работы",
+        "subtitle": "Моя профессиональная карьера"
+    },
+    "projects": {
+        "title": "Проекты",
+        "subtitle": "Некоторые из моих последних работ",
+        "viewCode": "Код",
+        "viewDemo": "Демо"
+    },
+    "contact": {
+        "title": "Контакты",
+        "subtitle": "Свяжитесь со мной для обсуждения проектов",
+        "getInTouch": "Свяжитесь со мной",
+        "email": "Email",
+        "phone": "Телефон",
+        "location": "Местоположение",
+        "locationValue": "Душанбе, Таджикистан",
+        "socialMedia": "Социальные сети",
+        "socialDescription": "Подписывайтесь на меня в социальных сетях и следите за моими проектами и обновлениями.",
+        "writeMe": "Написать мне",
+        "copyright": "Рахматулло Азизов. Все права защищены.",
+        "madeWith": "Создано с ❤️ с использованием React, TypeScript и Tailwind CSS"
+    }
+}
