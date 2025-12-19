@@ -1,6 +1,6 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
-import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaMapMarkerAlt, FaTelegram } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaEnvelope, FaPhone, FaTelegram } from 'react-icons/fa';
 import { useTranslation } from 'react-i18next';
 
 const Contact = () => {
@@ -12,26 +12,18 @@ const Contact = () => {
     {
       icon: FaEnvelope,
       label: t('contact.email'),
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'tillo3305@gmail.com',
+      href: 'mailto:tillo3305@gmail.com',
       color: 'text-red-400',
       hoverColor: 'group-hover:text-red-300',
     },
     {
       icon: FaPhone,
       label: t('contact.phone'),
-      value: '+992 XX XXX XXXX',
-      href: 'tel:+992XXXXXXXXX',
+      value: '+998 90 511 33 05',
+      href: 'tel:+998905113305',
       color: 'text-green-400',
       hoverColor: 'group-hover:text-green-300',
-    },
-    {
-      icon: FaMapMarkerAlt,
-      label: t('contact.location'),
-      value: t('contact.locationValue'),
-      href: '#',
-      color: 'text-blue-400',
-      hoverColor: 'group-hover:text-blue-300',
     },
   ];
 
@@ -39,14 +31,14 @@ const Contact = () => {
     {
       icon: FaGithub,
       label: 'GitHub',
-      href: 'https://github.com',
+      href: 'https://github.com/Rakhmatullo929',
       color: 'hover:text-gray-400',
       bgHover: 'hover:bg-gray-400/20',
     },
     {
       icon: FaLinkedin,
       label: 'LinkedIn',
-      href: 'https://linkedin.com',
+      href: 'https://www.linkedin.com/in/rakhmatullo-azizov/ru/',
       color: 'hover:text-blue-500',
       bgHover: 'hover:bg-blue-500/20',
     },
@@ -167,7 +159,7 @@ const Contact = () => {
                 </motion.div>
 
                 <motion.a
-                  href="mailto:your.email@example.com"
+                  href="mailto:tillo3305@gmail.com"
                   whileHover={{ scale: 1.02, boxShadow: '0 20px 40px rgba(6, 182, 212, 0.4)' }}
                   whileTap={{ scale: 0.98 }}
                   className="block w-full px-8 py-4 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-semibold text-white text-center transition-all duration-300 shine-effect"

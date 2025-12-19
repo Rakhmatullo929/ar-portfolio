@@ -190,9 +190,9 @@ const Hero = () => {
             className="flex gap-6 justify-center items-center"
           >
             {[
-              { Icon: FaGithub, href: 'https://github.com', label: 'GitHub' },
-              { Icon: FaLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
-              { Icon: FaEnvelope, href: 'mailto:your.email@example.com', label: 'Email' },
+              { Icon: FaGithub, href: 'https://github.com/Rakhmatullo929', label: 'GitHub' },
+              { Icon: FaLinkedin, href: 'https://www.linkedin.com/in/rakhmatullo-azizov/ru/', label: 'LinkedIn' },
+              { Icon: FaEnvelope, href: 'mailto:tillo3305@gmail.com', label: 'Email' },
             ].map(({ Icon, href, label }) => (
               <motion.a
                 key={label}
